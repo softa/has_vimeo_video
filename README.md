@@ -2,6 +2,10 @@
 
 Validate a Vimeo URL attribute in Active Record, and retrieve access to the video's data through Vimeo API.
 
+## This repo has been transfered to engageis
+
+The oficial repo is now [https://github.com/engageis/has_vimeo_video](https://github.com/engageis/has_vimeo_video) please update your local repositories.
+
 
 ## Installation
 
